@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: zlava
+Specification-Vendor: Ricardo Pote, Romeu Talina
+Specification-Version: 1
+Implementation-Title: zombie_de_lava_oh_man
+Implementation-Version: 1.21.8-0.0.0.0
+Implementation-Vendor: Ricardo Pote, Romeu Talina
+
